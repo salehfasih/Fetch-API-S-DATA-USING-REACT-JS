@@ -1,0 +1,45 @@
+body{
+    /* background:rgb(248, 94, 146) */
+    background-color: white;
+
+}
+ /* .container{
+    background-color: white;
+    width: 30%;
+    /* text-align: center; */
+    /* height: 100px; */
+    /* height: 100%;
+    border-radius: 10px;
+    /* justify-content: center;
+   position: absolute; */
+   /* color: grey;
+   box-shadow: 2px 2px 2px 2px  black;  */
+
+   
+
+ */ */
+.person img{
+  width: 20%;    
+  border-radius: 50%;
+
+
+}
+.person{
+    display: flex;
+}
+.main{
+    /* justify-content: center; */
+    /* text-align: center; */
+  margin-top: 40px; 
+    
+}
+.btn{
+    background-color: rgb(243, 73, 101);
+    width: 100%;
+    border: none;
+    margin-top: -5px;
+    color: white;
+}
+
+
+
